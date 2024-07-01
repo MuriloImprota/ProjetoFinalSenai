@@ -1,1 +1,2 @@
-# ProjetoFinalSenai
+Esse projeto contempla um sistema de gerenciamento de estoque de produtos eletrônicos, assim como diversas funcionalidade. São elas: Cadastro de itens no sistema; Pesquisa de itens pelo nome ou código; compra de itens do estoque; 
+quantidade de produção mensal e anual dos itens do sistema; calculo de pagamento de funcionarios, com base na sua carga horaria, cargo e horas trabalhadas (incluindo bonificações); e por fim, gastos da empresa com luz, agua e impostos.
